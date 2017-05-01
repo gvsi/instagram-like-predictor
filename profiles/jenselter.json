@@ -1,39 +1,88 @@
 {
   "alias": "jenselter",
   "username": "Jen Selter",
-  "descriptionProfile": [
-    "📧 Hello@JenSelter.com",
-    "📧 Hello@JenSelter.com"
-  ],
+  "descriptionProfile": "#Seltering",
   "urlProfile": "https://www.instagram.com/jenselter/",
   "urlImgProfile": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/17818038_431079410559516_2246294438705889280_a.jpg",
   "website": "ftpln.com/jenselter",
-  "numberPosts": 962,
-  "numberFollowers": 11100000,
-  "numberFollowing": 134,
+  "numberPosts": 966,
+  "numberFollowers": 11192893,
+  "numberFollowing": 135,
   "private": false,
   "posts": [
     {
-      "url": "https://www.instagram.com/p/BTUkt6Ah5PN/?taken-by=jenselter",
-      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.133.1080.1080/18095242_1536401773057746_4624323994055606272_n.jpg",
-      "numberLikes": 128735,
-      "numberViews": 0,
-      "numberComments": 1221,
+      "url": "https://www.instagram.com/p/BThc7fqhQjG/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.28.1080.1080/18161037_376140996113498_716385190464716800_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#WomenRunTheWorld"
+      ],
+      "mentions": [
+        "@ShapeHalf",
+        "@nyrr",
+        "@oliviaculpo",
+        "@shape"
+      ],
+      "description": "It was amazing to be a part of @ShapeHalf marathon with @nyrr 🏃🏻‍♀️NYC, I'm so inspired by how motivated everyone was today! 💪🏼 #WomenRunTheWorld",
+      "localization": null,
+      "date": "2017-04-30T05:00:00.000Z",
+      "numberLikes": 115421,
+      "filename": "18161037_376140996113498_716385190464716800_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTcYbLBhbRe/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/18252455_221563074996544_3490229955332145152_n.jpg",
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
-      "mentions": [],
+      "mentions": [
+        "@michelle_lewin",
+        "@fitplan_app",
+        "@michelle_lewin",
+        "@gymlooks"
+      ],
+      "description": "Finally with this beauty @michelle_lewin 😍 💪🏼",
+      "localization": null,
+      "date": "2017-04-28T05:00:00.000Z",
+      "numberLikes": 225125,
+      "filename": "18252455_221563074996544_3490229955332145152_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTaQuvNBK6b/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.81.1080.1080/18096657_1671014376540811_2387158018711093248_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [
+        "@gymlooks"
+      ],
+      "description": "Exploring 😻",
+      "localization": "Gothenburg",
+      "date": "2017-04-27T05:00:00.000Z",
+      "numberLikes": 158695,
+      "filename": "18096657_1671014376540811_2387158018711093248_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTUkt6Ah5PN/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.133.1080.1080/18095242_1536401773057746_4624323994055606272_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [
+        "@lebrisadesigns",
+        "@jewelsbydurrani",
+        "@mishastudio"
+      ],
       "description": "Hello Sweden! Tell me some spots I should check out while I'm here 💋🇸🇪",
       "localization": null,
       "date": "2017-04-25T05:00:00.000Z",
+      "numberLikes": 174323,
       "filename": "18095242_1536401773057746_4624323994055606272_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTPl5AsBsRB/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/18013772_177156896139728_2935837127247659008_n.jpg",
-      "numberLikes": 273346,
-      "numberViews": 0,
-      "numberComments": 2496,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -41,14 +90,12 @@
       "description": "Views 💦",
       "localization": null,
       "date": "2017-04-23T05:00:00.000Z",
+      "numberLikes": 280789,
       "filename": "18013772_177156896139728_2935837127247659008_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTM04M9BS4W/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18095959_1408123002587643_4322264454570967040_n.jpg",
-      "numberLikes": 130309,
-      "numberViews": 0,
-      "numberComments": 817,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -61,14 +108,12 @@
       "description": "If you know me, you know I have the biggest sweet tooth🍦 #TreatYoSelf #FancyAnIceCream?",
       "localization": "London, United Kingdom",
       "date": "2017-04-22T05:00:00.000Z",
+      "numberLikes": 132902,
       "filename": "18095959_1408123002587643_4322264454570967040_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTKDn-SB_dN/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18013533_369568733439693_9131719702500868096_n.jpg",
-      "numberLikes": 180508,
-      "numberViews": 0,
-      "numberComments": 1512,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -78,14 +123,12 @@
       "description": "🐚 🐚 anyone else collect seashells when they were younger?!",
       "localization": null,
       "date": "2017-04-21T05:00:00.000Z",
+      "numberLikes": 183115,
       "filename": "18013533_369568733439693_9131719702500868096_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTHyxxfBFEe/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18013246_173024639886493_1424716604284862464_n.jpg",
-      "numberLikes": 124357,
-      "numberViews": 0,
-      "numberComments": 606,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -96,14 +139,12 @@
       "description": "I spy a 🐰",
       "localization": null,
       "date": "2017-04-20T05:00:00.000Z",
+      "numberLikes": 125424,
       "filename": "18013246_173024639886493_1424716604284862464_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTEyoN6BFe6/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.64.1080.1080/17932683_1912584808998894_4485893577448095744_n.jpg",
-      "numberLikes": 254331,
-      "numberViews": 0,
-      "numberComments": 3251,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -111,14 +152,12 @@
       "description": "🌸 Snapchat - JenSelter 🦄",
       "localization": null,
       "date": "2017-04-19T05:00:00.000Z",
+      "numberLikes": 256675,
       "filename": "17932683_1912584808998894_4485893577448095744_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTCUSFThVaY/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17934333_1666673640304513_4575743387042316288_n.jpg",
-      "numberLikes": 181964,
-      "numberViews": 0,
-      "numberComments": 960,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -133,14 +172,12 @@
       "description": "✈️ See you soon London! Comment below if I will be seeing you at @fitconuk this weekend 💕 #gymlooks",
       "localization": null,
       "date": "2017-04-18T05:00:00.000Z",
+      "numberLikes": 183380,
       "filename": "17934333_1666673640304513_4575743387042316288_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BS_5PRQhopj/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c25.0.1030.1030/17934106_1714955352136714_5814125579674320896_n.jpg",
-      "numberLikes": 174830,
-      "numberViews": 0,
-      "numberComments": 941,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -150,14 +187,12 @@
       "description": "Looking back to when I first started my fitness journey, I never thought I’d be where I am today. I’m not just talking about physically. I’ve changed and grown a lot as a person over the past few years. I’ve learned how to be confident in who I am. If you’re ever feeling like you want to give up, just take a moment right now to reflect on how far you’ve come. It can help give you the push you need and the motivation that will help you reach your goals. I’ve learned that sometimes, you have to rely only on yourself to get you there and you can’t compare your journey to anyone else’s. Check the link in my bio for how to do just that :)",
       "localization": null,
       "date": "2017-04-17T05:00:00.000Z",
+      "numberLikes": 175793,
       "filename": "17934106_1714955352136714_5814125579674320896_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BS6fQ9jBWh1/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c36.0.1007.1007/17881958_156300001565036_5512188652916047872_n.jpg",
-      "numberLikes": 318680,
-      "numberViews": 0,
-      "numberComments": 3947,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -167,14 +202,12 @@
       "description": "Wandering around 🌿",
       "localization": null,
       "date": "2017-04-15T05:00:00.000Z",
+      "numberLikes": 321284,
       "filename": "17881958_156300001565036_5512188652916047872_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BS37orWhecF/?taken-by=jenselter",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c82.0.915.915/17932540_297321270681820_753777562290749440_n.jpg",
-      "numberLikes": 227475,
-      "numberViews": 0,
-      "numberComments": 1432,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -184,7 +217,73 @@
       "description": "The life you want to live IS within your reach. All it takes is some hard work, motivation, and a positive attitude. Never let someone tell you that you’re not capable of doing whatever you set your mind to. Make a goal and go after it! You CAN do it!",
       "localization": null,
       "date": "2017-04-14T05:00:00.000Z",
+      "numberLikes": 228730,
       "filename": "17932540_297321270681820_753777562290749440_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BSy2g6FhbGd/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17882297_1682595278701072_821982918556516352_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#gymlooks"
+      ],
+      "mentions": [
+        "@gymlooks",
+        "@gymlooks"
+      ],
+      "description": "Beautiful day in LA ☀️ Shooting for @gymlooks - find outfit details on there 🙌🏼 #gymlooks",
+      "localization": null,
+      "date": "2017-04-12T05:00:00.000Z",
+      "numberLikes": 191634,
+      "filename": "17882297_1682595278701072_821982918556516352_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BSwN7lrhIVh/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.22.1080.1080/17818917_1910349845917180_1712691335393181696_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [
+        "@luvaj",
+        "@thatbikini",
+        "@andi_bagus"
+      ],
+      "description": "",
+      "localization": null,
+      "date": "2017-04-11T05:00:00.000Z",
+      "numberLikes": 214839,
+      "filename": "17818917_1910349845917180_1712691335393181696_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BSpNj1jBg_U/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17818775_1886108464940659_516108030773821440_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [],
+      "description": "Look back at it 👀",
+      "localization": null,
+      "date": "2017-04-08T05:00:00.000Z",
+      "numberLikes": 281022,
+      "filename": "17818775_1886108464940659_516108030773821440_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BSjozh9BGvS/?taken-by=jenselter",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17437590_773554116154749_3562124100094656512_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [
+        "@apl",
+        "@zacharythelabel",
+        "@gymlooks"
+      ],
+      "description": "LA tomorrow 🌴",
+      "localization": null,
+      "date": "2017-04-06T05:00:00.000Z",
+      "numberLikes": 214631,
+      "filename": "17437590_773554116154749_3562124100094656512_n.jpg"
     }
   ]
 }

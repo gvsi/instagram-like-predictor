@@ -9,17 +9,253 @@
   "urlProfile": "https://www.instagram.com/ladzinski/",
   "urlImgProfile": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/15534768_1005560682883915_6758570067518029824_a.jpg",
   "website": "ladzinski.com",
-  "numberPosts": 2643,
-  "numberFollowers": 930000,
-  "numberFollowing": 920,
+  "numberPosts": 2654,
+  "numberFollowers": 935310,
+  "numberFollowing": 923,
   "private": false,
   "posts": [
     {
+      "url": "https://www.instagram.com/p/BTheApHgSmI/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18161408_1002142056589118_7582281744770924544_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#Ouray",
+        "#colorado"
+      ],
+      "mentions": [
+        "@emilyaharrington",
+        "@thenorthface",
+        "@emilyaharrington",
+        "@coryrichards"
+      ],
+      "description": "@emilyaharrington making it look easy #Ouray #colorado",
+      "localization": null,
+      "date": "2017-04-30T05:00:00.000Z",
+      "numberLikes": 11565,
+      "filename": "18161408_1002142056589118_7582281744770924544_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTgGLdWgJFi/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/18252286_1911975779085792_9039081943735468032_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#kudu"
+      ],
+      "mentions": [
+        "@jacadatravel",
+        "@danahrichardson",
+        "@danahrichardson",
+        "@jacadatravel"
+      ],
+      "description": "Up close and personal with a giant #kudu - Just wrapping up my 6th trip to Africa, it keeps getting better and better every visit, I can't wait to return again soon!! @jacadatravel  @danahrichardson",
+      "localization": "Singita Pamushana Lodge",
+      "date": "2017-04-30T05:00:00.000Z",
+      "numberLikes": 13462,
+      "filename": "18252286_1911975779085792_9039081943735468032_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTecaNCgAvx/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/18096179_1781691302142777_5988964696043028480_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#climateMarch"
+      ],
+      "mentions": [
+        "@natgeo",
+        "@pattersonimages",
+        "@andy_mann",
+        "@cristinamittermeier",
+        "@paulnicklen",
+        "@ianvaso",
+        "@sea_legacy",
+        "@craigwelch",
+        "@shanemoorefilms"
+      ],
+      "description": "Today, in Washington DC, many of my friends and colleagues are taking part in the #climateMarch, an incredibly important statement that I sincerely hope will bring fourth a positive result for further support in this dire issue. It's never been more important, and as a US citizen it saddens me that it isn't taken more seriously by people with the power to make appropriate decisions in my country. How this is still an issue of politics is sincerely daunting. Having worked on the front lines on stories surrounding climate change with scientist, biologists, researchers and documenting the affects first hand, I can say with a clear conscience that it's going to take us all to make a difference. I hope we can all do our part to make a change, it matters more now than ever.",
+      "localization": "Antarctica",
+      "date": "2017-04-29T05:00:00.000Z",
+      "numberLikes": 15875,
+      "filename": "18096179_1781691302142777_5988964696043028480_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTd7qXhAa9W/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/18095229_123063281578405_2421810613719138304_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#Pangolin",
+        "#kalahari",
+        "#keratin"
+      ],
+      "mentions": [
+        "@kosie_lategan",
+        "@danahrichardson",
+        "@tswalu",
+        "@danahrichardson",
+        "@tswalu",
+        "@kosie_lategan"
+      ],
+      "description": "The utterly elusive and incredibly cool #Pangolin, showing me his backside, or what my field guide @kosie_lategan referred to as the \"African salute\" 😂 @danahrichardson and I were lucky enough to see two of these amazing mammals on our trip, one in Zimbabwe and the other at @tswalu in South Africa's #kalahari, I still can't believe our luck! Sadly the pangolin is THE most illegally trafficked animal in the world, in nearly all cases for its #keratin scales. It's a sad and ignorant consequence for such an amazing animal. Sincerely grateful to have seen and experienced these moments in the wild with this very special animal.",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-29T05:00:00.000Z",
+      "numberLikes": 19579,
+      "filename": "18095229_123063281578405_2421810613719138304_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTbcRmChxR7/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c25.0.1030.1030/18013134_859310134208033_8406161239280975872_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#kings",
+        "#TswaluKalahariReserve",
+        "#lions"
+      ],
+      "mentions": [
+        "@jacadatravel",
+        "@danahrichardson",
+        "@jacadatravel",
+        "@kosie_lategan"
+      ],
+      "description": "For the last few days our trackers have been trying to locate a pair of male lions, alpha brothers that are the #kings of the #TswaluKalahariReserve - Today they located them. These field trackers are incredible, it was a lot of fun watching them follow the subtlest of signs left behind, eventually bringing us right to a pair of the proudest black maned #lions I've ever seen. @jacadatravel",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-28T05:00:00.000Z",
+      "numberLikes": 16646,
+      "filename": "18013134_859310134208033_8406161239280975872_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTalM3Ohswt/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.40.823.823/18013181_156400451557950_4288853929745186816_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#zambia"
+      ],
+      "mentions": [
+        "@royalchundu",
+        "@danahrichardson",
+        "@royalchundu"
+      ],
+      "description": "Macro safari @royalchundu #zambia 🇿🇲",
+      "localization": "Royal Chundu Island Lodge on the Zambezi River, Zambia",
+      "date": "2017-04-27T05:00:00.000Z",
+      "numberLikes": 10147,
+      "filename": "18013181_156400451557950_4288853929745186816_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTZeQXYBvkN/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18094782_934610556680813_6212060179458949120_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#kalahari"
+      ],
+      "mentions": [
+        "@tswalu",
+        "@danahrichardson",
+        "@tswalu",
+        "@kosie_lategan"
+      ],
+      "description": "New moon, fading out as twilight rolls in / #kalahari @tswalu",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-27T05:00:00.000Z",
+      "numberLikes": 30009,
+      "filename": "18094782_934610556680813_6212060179458949120_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTYuhUuBQfO/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/18160527_1793753767607792_3859749841760419840_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#meerkat"
+      ],
+      "mentions": [
+        "@jacadatravel",
+        "@danahrchardson",
+        "@kosie_lategan",
+        "@danahrichardson",
+        "@jacadatravel",
+        "@kosie_lategan"
+      ],
+      "description": "Very fun morning hangin with this #meerkat family, these little guys were unreal, allowed us to get with-in inches of their den while they sniffed around playfully! Definitely an experience I'll never forget. See My Story to see how close I got! @jacadatravel @danahrchardson @kosie_lategan",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-27T05:00:00.000Z",
+      "numberLikes": 22145,
+      "filename": "18160527_1793753767607792_3859749841760419840_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTYBygYAe6t/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18096043_419478531755764_8028587752301789184_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#Kalahari",
+        "#lioncubs"
+      ],
+      "mentions": [
+        "@danahrichardson",
+        "@kosie_lategan",
+        "@tswalu",
+        "@danahrichardson",
+        "@tswalu",
+        "@kosie_lategan"
+      ],
+      "description": "Sometimes nature just lines things up perfectly. This moment here only lasted a few seconds, these cubs were intently watching their mom approach. On arrival they burst into playful wrestling, biting and clawing on mom and basically just being kids. @danahrichardson @kosie_lategan @tswalu #Kalahari #lioncubs",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-26T05:00:00.000Z",
+      "numberLikes": 20224,
+      "filename": "18096043_419478531755764_8028587752301789184_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTXIiEeAWVW/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/18160400_1466865403334896_8941845898493689856_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#Kalahari",
+        "#camelThornTree"
+      ],
+      "mentions": [
+        "@danahrichardson",
+        "@kosie_lategan",
+        "@tswalu",
+        "@danahrichardson",
+        "@tswalu",
+        "@kosie_lategan"
+      ],
+      "description": "Like so many, I grew up reading National Geographic, watching wild life shows and being completely fascinated with our natural world. These media outlets planted a seed in me at an early age, a desire to want to see these places first hand. The #Kalahari was one of those areas and it's been a dream come true to finally experience it. Tonight we finished up yet another incredible day here in a quite meadow at twilight, telling stories about the day and watching the stars slowly take over the night sky. This was the last photo I shot, a #camelThornTree surrounded by lush grass during the tail end of the rainy season. I'm sincerely grateful for these moments. 🙏🏻 @danahrichardson @kosie_lategan @tswalu",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-26T05:00:00.000Z",
+      "numberLikes": 21013,
+      "filename": "18160400_1466865403334896_8941845898493689856_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BTWXpX1Ay2_/?taken-by=ladzinski",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18094971_438634826473654_5260480153208750080_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#cheetahs",
+        "#Kalahari"
+      ],
+      "mentions": [
+        "@jacadatravel",
+        "@danahrichardson",
+        "@jacadatravel"
+      ],
+      "description": "Morning hunt - We were lucky enough to quietly accompany these 2 #cheetahs this morning on their sunrise prowl in the #Kalahari @jacadatravel",
+      "localization": "Tswalu Kalahari Reserve",
+      "date": "2017-04-26T05:00:00.000Z",
+      "numberLikes": 13833,
+      "filename": "18094971_438634826473654_5260480153208750080_n.jpg"
+    },
+    {
       "url": "https://www.instagram.com/p/BTUgRtKgkfi/?taken-by=ladzinski",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18096446_321317028284925_1979214607528493056_n.jpg",
-      "numberLikes": 12071,
-      "numberViews": 0,
-      "numberComments": 74,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -32,14 +268,12 @@
       "description": "Nothing like a little brotherly ambush to keep you on your toes @tswalu",
       "localization": "Tswalu Kalahari Reserve",
       "date": "2017-04-25T05:00:00.000Z",
+      "numberLikes": 16679,
       "filename": "18096446_321317028284925_1979214607528493056_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTT3cSwg61X/?taken-by=ladzinski",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/18012084_1855281768128943_1578097071905308672_n.jpg",
-      "numberLikes": 16039,
-      "numberViews": 0,
-      "numberComments": 104,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -52,14 +286,12 @@
       "description": "The real king of the jungle 🙏🏻 #GonarezhouNationalPark @jacadatravel",
       "localization": null,
       "date": "2017-04-25T05:00:00.000Z",
+      "numberLikes": 18269,
       "filename": "18012084_1855281768128943_1578097071905308672_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTTB_FTAwHL/?taken-by=ladzinski",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/17932483_1015498801920698_9012558008126799872_n.jpg",
-      "numberLikes": 188000,
-      "numberViews": 0,
-      "numberComments": 78,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -75,14 +307,12 @@
       "description": "Good morning #zimbabwe! Sunrise drive through the #acacia trees in search of lions 🦁🇿🇼 @singita_ #malilangwereserve",
       "localization": null,
       "date": "2017-04-25T05:00:00.000Z",
+      "numberLikes": 19811,
       "filename": "17932483_1015498801920698_9012558008126799872_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTR2Va8gwxR/?taken-by=ladzinski",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18094518_1176729962455437_769886605933543424_n.jpg",
-      "numberLikes": 141000,
-      "numberViews": 0,
-      "numberComments": 82,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -95,14 +325,12 @@
       "description": "End of another great day 🙏🏻 @jacadatravel #zimbabwe #crescentMoon",
       "localization": null,
       "date": "2017-04-24T05:00:00.000Z",
+      "numberLikes": 14590,
       "filename": "18094518_1176729962455437_769886605933543424_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTQ0gGMAOOI/?taken-by=ladzinski",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/18095274_790231214485808_1206777920597524480_n.jpg",
-      "numberLikes": 127000,
-      "numberViews": 0,
-      "numberComments": 90,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -115,14 +343,12 @@
       "description": "Wild dogs affectionately playing before heading out to hunt. I could have watched this for hours but it lasted only a few minutes before the pack moved into the thick forest in hot pursuit. We were lucky to catch the beginning of a hunt as they chased a wildebeest madly through the trees before moving in too far to follow or even see. All and all a very lucky encounter and one @danahrichardson and I will never forget! @singita_",
       "localization": "Singita Pamushana Lodge",
       "date": "2017-04-24T05:00:00.000Z",
+      "numberLikes": 13154,
       "filename": "18095274_790231214485808_1206777920597524480_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTQQ-wigK00/?taken-by=ladzinski",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/18094492_1311857082184268_2935938587260092416_n.jpg",
-      "numberLikes": 111000,
-      "numberViews": 0,
-      "numberComments": 33,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -138,93 +364,8 @@
       "description": "Sunset over #GonarezhouNationalPark's iconic sandstone #chilojoCliffs, reflected in the #Riunde river @chilogorge",
       "localization": "Gonarezhou National Park",
       "date": "2017-04-23T05:00:00.000Z",
+      "numberLikes": 11292,
       "filename": "18094492_1311857082184268_2935938587260092416_n.jpg"
-    },
-    {
-      "url": "https://www.instagram.com/p/BTPN0gWAziJ/?taken-by=ladzinski",
-      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c81.0.917.917/18012030_302347626868833_8796655589909331968_n.jpg",
-      "numberLikes": 9813,
-      "numberViews": 0,
-      "numberComments": 54,
-      "isVideo": false,
-      "multipleImage": false,
-      "tags": [
-        "#wilddogs"
-      ],
-      "mentions": [
-        "@danahrichardson",
-        "@jacadatravel",
-        "@danahrichardson",
-        "@jacadatravel"
-      ],
-      "description": "Playtime! Two young #wilddogs affectionately wrestle, moments after waking from a long nap. This display here is a form of bonding and way to warm up before a hunt. Wild Dogs are extremely loyal and affectionate to their pack, they also have the highest success rate in a hunt over any other predator in all of Africa. Photographing this pack today was truly a high light of my trip here with @danahrichardson! @jacadatravel",
-      "localization": "Singita Pamushana Lodge",
-      "date": "2017-04-23T05:00:00.000Z",
-      "filename": "18012030_302347626868833_8796655589909331968_n.jpg"
-    },
-    {
-      "url": "https://www.instagram.com/p/BTOeD4xh5Wj/?taken-by=ladzinski",
-      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/18095267_112729622621312_4429721903501934592_n.jpg",
-      "numberLikes": 9627,
-      "numberViews": 0,
-      "numberComments": 42,
-      "isVideo": false,
-      "multipleImage": false,
-      "tags": [
-        "#honeymoon"
-      ],
-      "mentions": [
-        "@singita_",
-        "@danahrichardson",
-        "@danahrichardson",
-        "@singita_"
-      ],
-      "description": "Last night the amazing people here at @singita_ went above and beyond for yet another unforgettable dinner! #honeymoon @danahrichardson",
-      "localization": "Singita Pamushana Lodge",
-      "date": "2017-04-23T05:00:00.000Z",
-      "filename": "18095267_112729622621312_4429721903501934592_n.jpg"
-    },
-    {
-      "url": "https://www.instagram.com/p/BTNoqXRhKsF/?taken-by=ladzinski",
-      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/18095780_1874511989494580_442897259491753984_n.jpg",
-      "numberLikes": 146000,
-      "numberViews": 0,
-      "numberComments": 84,
-      "isVideo": false,
-      "multipleImage": false,
-      "tags": [
-        "#elephant"
-      ],
-      "mentions": [
-        "@jacadatravel",
-        "@danahrichardson",
-        "@danahrichardson",
-        "@jacadatravel"
-      ],
-      "description": "Large bull #elephant giving me a little staring competition. I lost. @jacadatravel @danahrichardson",
-      "localization": null,
-      "date": "2017-04-22T05:00:00.000Z",
-      "filename": "18095780_1874511989494580_442897259491753984_n.jpg"
-    },
-    {
-      "url": "https://www.instagram.com/p/BTMoig4hCyN/?taken-by=ladzinski",
-      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/18094927_1190757207720034_1042485040589570048_n.jpg",
-      "numberLikes": 165000,
-      "numberViews": 0,
-      "numberComments": 106,
-      "isVideo": false,
-      "multipleImage": false,
-      "tags": [],
-      "mentions": [
-        "@paulnicklen",
-        "@paulnicklen",
-        "@paulnicklen",
-        "@paulnicklengallery"
-      ],
-      "description": "Photo by @paulnicklen / If you live in New York City then good news, you're in for a treat! My good friend and sincerely one of the finest photographers and passionate conservations out there, @paulnicklen is having the grand opening to his gallery today from noon to 9pm at: 347 W. Broadway SoHo New York City - stop in if you can, I assure you it will be worth it! I'm wishing I could be there but will most definitely be visiting the gallery next time I'm in NYC! Hope you can make it!",
-      "localization": null,
-      "date": "2017-04-22T05:00:00.000Z",
-      "filename": "18094927_1190757207720034_1042485040589570048_n.jpg"
     }
   ]
 }

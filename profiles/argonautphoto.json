@@ -8,17 +8,30 @@
   "urlProfile": "https://www.instagram.com/argonautphoto/",
   "urlImgProfile": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/15043771_1842042149349227_6006229592694587392_a.jpg",
   "website": "Amplifier.org",
-  "numberPosts": 644,
-  "numberFollowers": 763000,
-  "numberFollowing": 358,
+  "numberPosts": 646,
+  "numberFollowers": 764682,
+  "numberFollowing": 359,
   "private": false,
   "posts": [
     {
+      "url": "https://www.instagram.com/p/BTaCf4qlTWf/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c138.0.804.804/18013469_1499256016793586_7375251869993533440_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#PineRidgeReservation",
+        "#MitakuyeOyasin"
+      ],
+      "mentions": [],
+      "description": "Tipi raising at Wakpamni Lake, South Dakota, #PineRidgeReservation.  #MitakuyeOyasin",
+      "localization": null,
+      "date": "2017-04-27T05:00:00.000Z",
+      "numberLikes": 5224,
+      "filename": "18013469_1499256016793586_7375251869993533440_n.jpg"
+    },
+    {
       "url": "https://www.instagram.com/p/BTRjQ0_Fwfg/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18096573_235087000302621_426002799474507776_n.jpg",
-      "numberLikes": 4067,
-      "numberViews": 0,
-      "numberComments": 25,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -28,14 +41,12 @@
       "description": "Theo White Plume, Manderson, South Dakota, #PineRidgeIndianReservation.  Damn this kid could ride a horse!",
       "localization": null,
       "date": "2017-04-24T05:00:00.000Z",
+      "numberLikes": 4234,
       "filename": "18096573_235087000302621_426002799474507776_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BTM1NOXlrL-/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.96.1080.1080/18014001_432722247061861_603703772811624448_n.jpg",
-      "numberLikes": 6626,
-      "numberViews": 0,
-      "numberComments": 45,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -54,6 +65,7 @@
       "description": "Huey family (@hawkeyehuey @moorehuey and Juno!) at the @marchforscience Seattle!  #ScienceIsReal!  Stop the War on Facts!  Data is not your enemy! (Art by @ginakielillustration via @amplifierfoundation)",
       "localization": "Seattle, Washington",
       "date": "2017-04-22T05:00:00.000Z",
+      "numberLikes": 6694,
       "filename": "18014001_432722247061861_603703772811624448_n.jpg"
     },
     {
@@ -69,9 +81,6 @@
         "https://scontent.cdninstagram.com/t51.2885-15/s1080x1080/e35/18095007_754922661347705_5744583694010548224_n.jpg",
         "https://scontent.cdninstagram.com/t51.2885-15/s1080x1080/e35/18013781_794840777347647_4496278189894533120_n.jpg"
       ],
-      "numberLikes": 6392,
-      "numberViews": 0,
-      "numberComments": 21,
       "isVideo": false,
       "multipleImage": true,
       "tags": [
@@ -92,6 +101,7 @@
       "description": "Check out some of the gorgeous images from my colleagues at @NatGeo that are included in the @natgeocreative Flash Print Sale! Signed prints of these images from myself, @coryrichards, @amivitale, @stevewinterphoto, @pedromcbride, @chamiltonjames, and @ladzinski, @randyolson, @dguttenfelder more are available for $100 for 2 more days!  Visit the link in my profile to see the full collection of images in honor of #EarthDay.  A large percentage of the proceeds goes back into funding the work of our explorers, photographers, and researchers!  Sale ends tomorrow!",
       "localization": null,
       "date": "2017-04-21T05:00:00.000Z",
+      "numberLikes": 6473,
       "filename": [
         "18011482_566973043513842_4540998222604140544_n.jpg",
         "18094738_269303456812868_3838231480081842176_n.jpg",
@@ -107,9 +117,6 @@
     {
       "url": "https://www.instagram.com/p/BTFBtIflWRt/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c124.0.831.831/18013325_362388454158276_8760664300839763968_n.jpg",
-      "numberLikes": 7336,
-      "numberViews": 0,
-      "numberComments": 28,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -119,14 +126,12 @@
       "description": "Tipi raising at Wakpamni Lake on the #PineRidgeReservation in South Dakota.",
       "localization": null,
       "date": "2017-04-19T05:00:00.000Z",
+      "numberLikes": 7395,
       "filename": "18013325_362388454158276_8760664300839763968_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BRNZyU3BQX_/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.125.999.999/16906890_276434342794490_7741090054621102080_n.jpg",
-      "numberLikes": 133000,
-      "numberViews": 0,
-      "numberComments": 219,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -143,14 +148,12 @@
       "description": "@hawkeyehuey at #SalvationMountain, a literal man-made, rainbow colored, painted mountain near the #SaltonSea, that took its creator #LeonardKnight 27 years to build.  I was fortunate enough to spend 6 years working with Leonard on and off before his death.  I was endlessly inspired by his simple way of life and incredible vision and the unrivaled art environment he built.  His message with this place was simple: \"God is Love, Love is Universal.\" I return to the mountain every chance I get when I am in Southern California.  Tomorrow I'll be at the mountain and traveling around nearby #SlabCity and the Salton Sea with my son @hawkeyehuey.  We will be sharing our photos and videos and some live video in @NatGeo's Instagram stories throughout the day.  Come join us!",
       "localization": null,
       "date": "2017-03-04T06:00:00.000Z",
+      "numberLikes": 13357,
       "filename": "16906890_276434342794490_7741090054621102080_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BRHJnQ6hFqu/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c145.0.790.790/16908738_642049119316564_8347541975141974016_n.jpg",
-      "numberLikes": 9342,
-      "numberViews": 0,
-      "numberComments": 93,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -162,14 +165,12 @@
       "description": "Miki Collins and her oldest sled dog Spoi at her tiny cabin 30 miles into a subsistence trap line that runs into #DenaliNationalPark, Alaska. Miki and her sister Julie inherited the trap line (which existed long before the National Park) from a long line of trappers who also lived off the land in this remote land of kettle lakes, winding rivers, and winters that regularly dip down to -50 or below.  Watch for videos of the twins on the @natgeo feed.",
       "localization": null,
       "date": "2017-03-01T06:00:00.000Z",
+      "numberLikes": 9370,
       "filename": "16908738_642049119316564_8347541975141974016_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BQ8W4DMhsjS/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/16907985_1836350169971539_6111441710032617472_n.jpg",
-      "numberLikes": 7917,
-      "numberViews": 0,
-      "numberComments": 79,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -181,14 +182,12 @@
       "description": "Miki Collins and her dog team 100 miles into a subsistence trap line that runs into #DenaliNationalPark, Alaska. Miki and her sister Julie inherited the trap line (which existed long before the National Park) from a long line of trappers who also lived off the land in this remote land of kettle lakes, winding rivers, and winters that regularly dip down to -50 or below.  Watch for videos of the twins today and tomorrow on the @natgeo feed.",
       "localization": null,
       "date": "2017-02-25T06:00:00.000Z",
+      "numberLikes": 7946,
       "filename": "16907985_1836350169971539_6111441710032617472_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BQ390X4BWlE/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16790145_424499207890173_6349673044746698752_n.jpg",
-      "numberLikes": 105000,
-      "numberViews": 0,
-      "numberComments": 62,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -200,14 +199,12 @@
       "description": "From my time on assignment in #DenaliNationalPark, Alaska.  First night at a subsistence trapping cabin belonging to the Collins Sisters inside the National Park.  Sled dogs being fed before bedtime.  Check out a series of my videos of the Collins twins, who are probably on the trap line at this very moment, at the @natgeo feed today through Monday.",
       "localization": null,
       "date": "2017-02-23T06:00:00.000Z",
+      "numberLikes": 10596,
       "filename": "16790145_424499207890173_6349673044746698752_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BQJT4mRhIrI/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16464562_1234604579959188_4667598207629393920_n.jpg",
-      "numberLikes": 9681,
-      "numberViews": 0,
-      "numberComments": 132,
       "isVideo": false,
       "multipleImage": false,
       "tags": [],
@@ -217,14 +214,12 @@
       "description": "I heard today was a \"Sports day\" of some kind in America, So I took Juno Liana Huey for her first trip to the climbing gym.  21 months old and ready to roll! (With big brother @hawkeyehuey backing her up)",
       "localization": null,
       "date": "2017-02-05T06:00:00.000Z",
+      "numberLikes": 9699,
       "filename": "16464562_1234604579959188_4667598207629393920_n.jpg"
     },
     {
       "url": "https://www.instagram.com/p/BPjLaFChL1_/?taken-by=argonautphoto",
       "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16111056_230432587415624_2493947690421846016_n.jpg",
-      "numberLikes": 115000,
-      "numberViews": 0,
-      "numberComments": 101,
       "isVideo": false,
       "multipleImage": false,
       "tags": [
@@ -239,7 +234,112 @@
       "description": "Today my 7 year old son @hawkeyehuey was on the front lines in Seattle learning the path of the warrior with our family and friends. Today we marched for our mothers, we marched for our sisters, we marched for our daughters, and all the generations that have been and are yet to come!  Hawkeye will be raised to protect women, to protect the sacred, to protect this planet, and to protect the vulnerable among us.  Today we did not see a moment, we saw a MOVEMENT. (Photo by Mom) #therightsideofhistory #wethepeople #greaterthanfear #mniwiconi",
       "localization": null,
       "date": "2017-01-21T06:00:00.000Z",
+      "numberLikes": 11546,
       "filename": "16111056_230432587415624_2493947690421846016_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BPIulYfgmEn/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/14733506_243505349424035_45367262806278144_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#GreaterThanFear",
+        "#DefendDignity",
+        "#ProtectEachOther"
+      ],
+      "mentions": [
+        "@AmplifierFoundation",
+        "@obeygiant",
+        "@ernestoyerena",
+        "@jessicasabogal",
+        "@AmplifierFoundation",
+        "@ari"
+      ],
+      "description": "Friends!  My non-profit  @AmplifierFoundation​  just launched a project on Kickstarter that I wanted to share with you.  It was my way of turning my fear and sadness after Nov 8th into action.  Link in my header.\n-------------------------------\nEight years ago my friend Shepard Fairey​ (@obeygiant) made an image that defined a period of HOPE in America. Today we are in very different times. In the wake of this year’s presidential campaign, very concerning things are becoming normalized:  anti-Immigrant rhetoric, building walls, mass deportations, talk of Muslim registries. This moment calls for new images, images to disrupt the rising tide of hate speech and fear mongering. We the People need to come together under a new symbol of Hope— one that reminds us that OUR America is one of equal humanity, and does not demean or discriminate. We need you to help us take back this narrative. \nIn addition to Shepard we have 2 of the most talented activist artist working today: @ernestoyerena  and @jessicasabogal.  Together these 3 artists are helping shape the American story we SHOULD be telling.\n\nThe sale of these artist's prints on Kickstarter will fund the publication of their images and words as full page ads in the Washington Post on Inauguration Day, to be distributed to 600,000 people. Free speech in public spaces has rarely been as stifled as it will be for this inauguration. But no administration can tell you can't buy a newspaper and hold it up above your head!  Beyond the ads in the Post @AmplifierFoundation will also be distributing all of these images at Metro stops, out the back of moving vans, and at drop spots in DC to be announced in the coming weeks on their site. We don’t have any one easy solution, but we do know this: We are Resilient, we must be Indivisible, we must be #GreaterThanFear, we must #DefendDignity, and we must #ProtectEachOther.  Art made from a photo by @ari.mejorado!",
+      "localization": null,
+      "date": "2017-01-11T06:00:00.000Z",
+      "numberLikes": 7360,
+      "filename": "14733506_243505349424035_45367262806278144_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BO2kawlAoyz/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/15876766_1380779861958614_2835968765269639168_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [
+        "@vqreview"
+      ],
+      "description": "Photo essay and interview on @vqreview today (link in header). \"When I look at these picture, to me they're not in reference to the human experience. We can try to interpret the glacier as a line and say this line creates a path. We can project ourselves into the idea and decide we’re the ones who are walking that path. But it’s not for us.\"",
+      "localization": null,
+      "date": "2017-01-04T06:00:00.000Z",
+      "numberLikes": 10751,
+      "filename": "15876766_1380779861958614_2835968765269639168_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BOz7kGvAvuP/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/15802848_147007499122261_1181629504099975168_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [],
+      "description": "In the early morning hours I boarded the time machine...",
+      "localization": null,
+      "date": "2017-01-03T06:00:00.000Z",
+      "numberLikes": 12032,
+      "filename": "15802848_147007499122261_1181629504099975168_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BONZGfhBCW-/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c145.0.789.789/15538787_1802531290004832_6695271741452713984_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [],
+      "mentions": [
+        "@Hawkeyehuey"
+      ],
+      "description": "Today @Hawkeyehuey is 7 years old!  I celebrate your life my first born!  King of my Heart!  Warrior in this new world!  I wish for your aim to be true and your arrows sharp, to pierce through all fear!  Fight the good fight my boy, I have your back! -Dad",
+      "localization": null,
+      "date": "2016-12-19T06:00:00.000Z",
+      "numberLikes": 11343,
+      "filename": "15538787_1802531290004832_6695271741452713984_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BN0E_bKBnIW/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15258772_387857564889028_3175649074351177728_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#LeonardKnight",
+        "#SalvationMountain"
+      ],
+      "mentions": [
+        "@outsiderbooks",
+        "@chetbabyplays"
+      ],
+      "description": "Friends!  I forgot to tell you!  @outsiderbooks is having an Aaron Huey birthday special (Im 41 today!) My #LeonardKnight #SalvationMountain book (a museum in a box filled with dime-store photos, foldouts, a song book, oral histories and postcards), was $70 but is now, for today only, $30 (link in my header). The message in that book has never been more needed then it is right now.  Leonard seemed to be able to unite all people, from every faith, race, and political party, with his kindness and LOVE.  Man, I miss this guy. (Photo by @chetbabyplays)",
+      "localization": null,
+      "date": "2016-12-09T06:00:00.000Z",
+      "numberLikes": 6688,
+      "filename": "15258772_387857564889028_3175649074351177728_n.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/p/BNr6WsAhUqV/?taken-by=argonautphoto",
+      "urlImage": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15306103_212219345899730_8157608780327026688_n.jpg",
+      "isVideo": false,
+      "multipleImage": false,
+      "tags": [
+        "#codyniterodeo"
+      ],
+      "mentions": [
+        "@HawkeyeHuey",
+        "@outsiderbooks"
+      ],
+      "description": "@HawkeyeHuey's book just went on sale for $26 for Christmas!  Link in my header!  You've gotta see these 4 year old portraits of Cowboys, gamblers, tourists and all the other great characters of the American West shot from 3 ft off the ground.  I guarantee its like no photo book you've ever seen. Get one before they sell out!  @outsiderbooks #codyniterodeo, Wyoming",
+      "localization": null,
+      "date": "2016-12-06T06:00:00.000Z",
+      "numberLikes": 7392,
+      "filename": "15306103_212219345899730_8157608780327026688_n.jpg"
     }
   ]
 }
